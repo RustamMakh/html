@@ -7,8 +7,6 @@ body{
     font-weight: normal;
     font-family: 'Roboto', sans-serif;
 }
-.avatar {
-    width: 200px;
-    height: 200px;
-    border-radius: 28px;
+.class {
+    width="200"
 }
